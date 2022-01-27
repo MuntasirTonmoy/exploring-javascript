@@ -36,7 +36,7 @@ orangePrice = 5;
 orangeQuantity = moneyAvaiable / orangePrice;
 
 
-console.log(orangeQuantity);
+console.log(orangeQuantity);  // op: 10.4
 
 //modulus of division
 //we use % sign for determine modulus.
