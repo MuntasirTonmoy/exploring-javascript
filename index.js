@@ -16,3 +16,6 @@ JavaScript is a scripting or programming language that allows you to implement c
 //but we will use vs code 
 
 console.log(2 + 2)
+// then we will open terminal ande write node filename.js
+
+// then we can see result in terminal 
