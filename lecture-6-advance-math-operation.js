@@ -27,6 +27,9 @@ console.log(price);
 //shorthand example:
 var age = 23;
 age += 1;
+age -= 2;
+age *= 5;
+age /= 6;
 
 //increment or decrement operator if we want to increase or decrease the value by 1 only then we can simple write ++ or -- 
 
