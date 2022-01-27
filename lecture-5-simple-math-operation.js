@@ -24,10 +24,21 @@ var totalEggPrice = eggPrice * eggQuantity;
 console.log(totalEggPrice);
 
 //division
-
 var moneyAvaiable = 100;
 var orangePrice = 5;
 
 var orangeQuantity = moneyAvaiable / orangePrice;
 
+// it works like calculator means it divided fully give float result also
+moneyAvaiable = 52;
+orangePrice = 5;
+
+orangeQuantity = moneyAvaiable / orangePrice;
+
+
 console.log(orangeQuantity);
+
+//modulus of division
+//we use % sign for determine modulus.
+
+console.log(moneyAvaiable % orangePrice); // here reminder is 0
