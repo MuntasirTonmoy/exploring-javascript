@@ -38,3 +38,15 @@ age--; // age = age - 1;
 
 console.log(age);
 
+// if we want to show fixed number after decimal point we have to use variableName.toFixed(value of how many digit we want to see) function with parseFloat();
+
+var price1 = 0.1;
+var price2 = 0.2;
+var total = price1 + price2;
+console.log(total);
+// after this we can see in output is 0.3000000004 like that but if we want to see only one number we have to write like that
+total = total.toFixed(1); // it will convert the value into string so we have to use parseFloat()
+total = parseFloat(total);
+console.log(total);
+
+
