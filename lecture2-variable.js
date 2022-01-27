@@ -5,7 +5,7 @@
 1. first we have to write var
 2. then we have to give a meaningful valid name so that one can easily understand what is this variable for
 3. then we have to write assignment operator =
-4. then put value
+4. then put value mean initialize.
 5. give semicolon ; 
 example.
 */
